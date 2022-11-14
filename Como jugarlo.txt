@@ -1,0 +1,25 @@
+Movimientos:
+Adelante        W
+Atras           S
+Izquierda       A
+Derecha         D
+Rotar Izquierda Q
+Rotar Derecha   E
+Cambiar Camara  K
+Disparar        Space
+Recargar        R
+
+Reglas:
+Hay un botiquin de vida que aumenta tu salud al colisionar, hay una botella la cual aumenta tu velocidad. Cada uno cerca de un arbol.
+Y un catucho de balas cerca de las rocas.
+Al llegar a la puerta se cambia de escena, que seria una perspectiva de la casa.
+
+No tiene muchas cosas ya que estoy en proceso de cambio de pc, lo cual realentiza mi proyecto mientras añado mas cosas, pero antes de la clase 17.
+
+Genero: Terror
+La idea es la siguiente, el jugador va a explorar en el bosque una casa embrujada la cual la asecha un asesino en forma de payaso y un general zombie, lo
+cual la leyenda dice que el general solo te sigue para acerte confundir y el payaso asesino busca atacarte para matarte, lo cual tu unico apoyo es tu
+escopeta la cual tiene 6 tiros y tu cuentas con 6 vidas. Ojo el asesino se rumorea que es resistente a las balas lo cual solo lo noquearas por un minuto.
+
+Trabajo echo solo por Mauro Leonel Gomez.
+
